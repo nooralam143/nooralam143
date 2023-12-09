@@ -65,13 +65,6 @@ Welcome to my GitHub profile! I'm passionate about building dynamic and user-cen
 
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=nooralam143&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-- **CMS**: WordPress
-
 ### 🌟 What I Do:
 
 I thrive on transforming ideas into functional and visually appealing web solutions. From designing elegant UIs to architecting scalable backend systems, I enjoy the entire development lifecycle.
