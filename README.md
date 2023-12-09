@@ -44,11 +44,6 @@
 
 <br/>  
 
-### 🌟 What I Do:
-
-I thrive on transforming ideas into functional and visually appealing web solutions. From designing elegant UIs to architecting scalable backend systems, I enjoy the entire development lifecycle.
-
-
 ## Reach me out  
 <div align="center">
 <a href="https://github.com/nooralam143" target="_blank">
