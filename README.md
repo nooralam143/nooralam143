@@ -26,5 +26,5 @@ Exploring new technologies and frameworks to stay on the cutting edge. Committed
 
 ### 🚀 Let's Collaborate!
 
-Feel free to explore my repositories, and let's collaborate on something exciting! If you have any questions, ideas, or just want to chat, reach out on [LinkedIn](https://www.linkedin.com/in/noor-alam/).
+Feel free to explore my repositories, and let's collaborate on something exciting! If you have any questions, ideas, or just want to chat, reach out on [LinkedIn](https://www.linkedin.com/in/nooralam143/).
 
