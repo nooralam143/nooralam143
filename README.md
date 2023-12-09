@@ -1,3 +1,5 @@
+![GitHub Banner](https://raw.githubusercontent.com/nooralam143/nooralam143/main/asset/icon/nooralam-bannar.png)
+
 # Hi there! I'm Noor Alam👋
 
 ## Full Stack Web Developer
