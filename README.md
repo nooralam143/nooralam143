@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hi there! I'm Noor Alam👋
 
-<!--
-**nooralam143/nooralam143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Web Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about building dynamic and user-centric web applications. Here's a glimpse into my tech world:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technologies that I know:
+
+- **Frontend**: HTML, CSS, Javascript Tailwind CSS, React.js
+- **Backend**: Node.js
+- **Database**: MongoDB
+- **CMS**: WordPress
+
+### 🌟 What I Do:
+
+I thrive on transforming ideas into functional and visually appealing web solutions. From designing elegant UIs to architecting scalable backend systems, I enjoy the entire development lifecycle.
+
+
+### 📈 Current Stats:
+
+[![Current Stats](https://github-readme-streak-stats.herokuapp.com?user=nooralam143&theme=dark)](https://git.io/streak-stats)
+
+### 🔭 Current Focus:
+
+Exploring new technologies and frameworks to stay on the cutting edge. Committed to continuous learning and improvement.
+
+### 🌐 Let's Connect:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nooralam143/)
+
+### 🚀 Let's Collaborate!
+
+Feel free to explore my repositories, and let's collaborate on something exciting! If you have any questions, ideas, or just want to chat, reach out on [LinkedIn](https://www.linkedin.com/in/noor-alam/).
+
