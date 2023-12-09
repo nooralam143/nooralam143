@@ -1,11 +1,5 @@
 ![GitHub Banner](https://raw.githubusercontent.com/nooralam143/nooralam143/main/asset/icon/nooralam-bannar.png)
 
-# Hi there! I'm Noor Alam👋
-
-## Full Stack Web Developer
-
-Welcome to my GitHub profile! I'm passionate about building dynamic and user-centric web applications. Here's a glimpse into my tech world:
-
 ## Technologies that I know 
 <table><tr><td valign="top" width="33%">
 
