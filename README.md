@@ -24,10 +24,6 @@ I thrive on transforming ideas into functional and visually appealing web soluti
 
 Exploring new technologies and frameworks to stay on the cutting edge. Committed to continuous learning and improvement.
 
-### 🌐 Let's Connect:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/nooralam143/)
-
 ### 🚀 Let's Collaborate!
 
 Feel free to explore my repositories, and let's collaborate on something exciting! If you have any questions, ideas, or just want to chat, reach out on [LinkedIn](https://www.linkedin.com/in/noor-alam/).
